@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHEOPS-NG - Accueil</title>
+    <link rel="stylesheet" href="../styles/main.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur CHEOPS-NG</h1>
+        <button id="logout-btn">Se déconnecter</button>
+    </header>
+
+    <nav>
+        <ul>
+            <li><button onclick="navigateTo('FPR')">📌 FPR</button></li>
+            <li><button onclick="navigateTo('SNPC')">🚗 SNPC</button></li>
+            <li><button onclick="navigateTo('SIV')">🚙 SIV</button></li>
+            <li><button onclick="navigateTo('dispatch')">🚓 Dispatch</button></li>
+            <li><button onclick="navigateTo('reports')">📝 Rapports</button></li>
+            <li><button onclick="navigateTo('taj')">⚖️ Casier Judiciaire</button></li>
+            <li><button onclick="navigateTo('accounts')">👮‍♂️ Gestion des Comptes</button></li>
+        </ul>
+    </nav>
+
+    <main>
+        <iframe id="content-frame" src="home.html"></iframe>
+    </main>
+
+    <script src="../scripts/main.js"></script>
+</body>
+</html>

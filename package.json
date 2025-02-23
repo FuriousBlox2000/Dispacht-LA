@@ -1,0 +1,21 @@
+{
+  "name": "cheops-ng",
+  "version": "1.0.0",
+  "description": "Application de gestion police/gendarmerie",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --enable-logging"
+  },
+  "author": "Ton Nom",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.8.1",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "electron": "^34.2.0",
+    "electron-reload": "^1.5.0"
+  }
+}

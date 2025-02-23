@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestion des Comptes</title>
+    <link rel="stylesheet" href="../styles/main.css">
+</head>
+<body>
+    <h2>👮‍♂️ Gestion des Comptes</h2>
+    <button onclick="goBack()">⬅ Retour</button>
+    <input type="text" id="new-username" placeholder="Nom d'utilisateur">
+    <select id="user-rank">
+        <option value="agent">Agent</option>
+        <option value="sergent">Sergent</option>
+        <option value="lieutenant">Lieutenant</option>
+        <option value="capitaine">Capitaine</option>
+        <option value="commissaire">Commissaire</option>
+    </select>
+    <button onclick="addUser()">👤 Ajouter</button>
+    <div id="account-list"></div>
+
+    <script src="../scripts/accounts.js"></script>
+</body>
+</html>

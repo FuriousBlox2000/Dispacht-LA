@@ -1,0 +1,121 @@
+#app-screen {
+    display: flex;
+    width: 90%;
+    height: 90vh;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+aside {
+    width: 250px;
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+aside h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+aside ul {
+    list-style: none;
+    padding: 0;
+}
+
+aside ul li {
+    margin: 10px 0;
+}
+
+aside button {
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    background-color: #34495e;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+aside button:hover {
+    background-color: #1abc9c;
+}
+
+main {
+    flex-grow: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+/* Sections */
+.section {
+    display: none;
+}
+
+.section.active {
+    display: block;
+}
+
+/* HEADER */
+.fr-header {
+    background-color: #000091;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; /* Permet d'éviter le débordement */
+}
+
+.fr-header .fr-logo {
+    height: 80px; /* Réduit la taille du logo */
+}
+
+.fr-header__brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* CONTAINER PRINCIPAL */
+.fr-container {
+    max-width: 1200px; /* Limite la largeur pour éviter les débordements */
+    margin: 0 auto; /* Centre le contenu */
+    padding: 20px;
+    text-align: center;
+}
+
+/* BOUTONS */
+.fr-grid-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px; /* Ajoute un espacement entre les boutons */
+}
+
+.fr-grid-row .fr-col-12 {
+    width: calc(33.33% - 15px); /* Permet d'afficher 3 boutons par ligne */
+}
+
+.fr-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #000091;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.fr-btn:hover {
+    background-color: #3131b1;
+}
+

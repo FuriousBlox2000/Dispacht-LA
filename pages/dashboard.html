@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau de bord - CHEOPS-NG</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@gouvfr/dsfr@1.9.1/dist/dsfr.min.css">
+    
+    <style>
+        body {
+            font-family: "Marianne", Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+            color: #000091;
+        }
+
+        .fr-header {
+            background-color: white;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 3px solid #000091;
+        }
+
+        .fr-header__brand {
+            display: flex;
+            align-items: center;
+        }
+
+        .fr-logo {
+            width: 120px;
+            margin-right: 15px;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+
+        #logout {
+            background-color: #000091;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+
+        #logout:hover {
+            background-color: #1212a0;
+        }
+
+        main {
+            text-align: center;
+            padding: 40px;
+        }
+
+        .button-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            justify-content: center;
+            max-width: 1000px;
+            margin: auto;
+            padding-top: 20px;
+        }
+
+        .button-container a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 15px;
+            background-color: #000091;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 8px;
+            transition: 0.3s;
+            font-size: 1rem;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .button-container a:hover {
+            background-color: #1212a0;
+            transform: translateY(-2px);
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: white;
+            border-top: 3px solid #000091;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header class="fr-header">
+    <div class="fr-header__brand">
+        <img src="https://www.saintmartindelabrasque.com/image.php?width=1200&height=600&image=/img/Actualit%C3%A9s/Ministere%20interieur.jpg" 
+             alt="République Française" class="fr-logo">
+        <div>
+            <h1>MINISTÈRE DE L’INTÉRIEUR</h1>
+        </div>
+    </div>
+    <button id="logout">Déconnexion</button>
+</header>
+
+<main>
+    <h1>Bienvenue, <span id="user-name">admin</span></h1>
+    <p>Choisissez un fichier à consulter :</p>
+
+    <div class="button-container">
+        <a href="fpr.html">📌 Fichier des Personnes Recherchées (FPR)</a>
+        <a href="snpc.html">🚗 Système National des Permis de Conduire (SNPC)</a>
+        <a href="siv.html">🚙 Système d'Immatriculation des Véhicules (SIV)</a>
+        <a href="fov.html">📦 Fichier des Objets Volés (FOV)</a>
+        <a href="taj.html">⚖️ Casier Judiciaire (TAJ)</a>
+        <a href="dispatch.html">🚓 Gestion des Patrouilles</a>
+        <a href="rapports.html">📝 Rapports et Comptes Rendus</a>
+        <a href="accounts.html">👮‍♂️ Gestion des Comptes</a>
+    </div>
+</main>
+
+<footer>
+    <p>© République Française - Tous droits réservés</p>
+</footer>
+
+<script>
+    document.getElementById("logout").addEventListener("click", function() {
+        alert("Déconnexion en cours...");
+        window.location.href = "login.html"; // Redirection après déconnexion
+    });
+</script>
+
+</body>
+</html>
