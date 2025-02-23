@@ -4,7 +4,7 @@ document.getElementById("login-form").addEventListener("submit", function (event
     const identifiant = document.getElementById("identifiant").value;
     const password = document.getElementById("password").value;
 
-    fetch("https://api.jsonbin.io/v3/b/67bb56a4ad19ca34f80f69f0/latest", {
+    fetch("https://api.jsonbin.io/v3/b/67bb5c6fad19ca34f80f7168/latest", {
         headers: { "X-Master-Key": "$2a$10$2SQuMlcb08504.lkYUFZrOVwEhnLOy9TOw/SLJvegIuyG0gntU6Ni" }
     })
     .then(response => response.json())
