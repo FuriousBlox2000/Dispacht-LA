@@ -3,6 +3,23 @@ const path = require("path");
 const bcrypt = require("bcryptjs");
 const Database = require("better-sqlite3");
 
+const express = require("express");
+const cors = require("cors");
+const app = express();
+
+app.use(cors());
+app.use(express.json());
+
+const PORT = process.env.PORT || 3000;
+
+app.get("/", (req, res) => {
+    res.send("API en ligne !");
+});
+
+app.listen(PORT, () => {
+    console.log(`✅ Serveur lancé sur le port ${PORT}`);
+});
+
 // Initialisation de la base de données SQLite
 const db = new Database(path.join(__dirname, "database", "database.db"));
 
