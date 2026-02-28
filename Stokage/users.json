@@ -1,0 +1,28 @@
+[
+  {
+    "badge": "captain-001",
+    "firstName": "Sarah",
+    "lastName": "Williams",
+    "rank": "captain",
+    "role": "captain",
+    "division": "Administration",
+    "password": "captain123",
+    "permissions": {
+      "dispatch": true,
+      "communications": true,
+      "files": true,
+      "cameras": true,
+      "reports": true,
+      "archives": true,
+      "seizures": true,
+      "wiretaps": true,
+      "token": true,
+      "canCreateReports": true,
+      "canEditReports": true,
+      "canDeleteReports": false,
+      "canAccessCriminalRecords": false,
+      "canManageWiretaps": true,
+      "canManageSeizures": true
+    }
+  }
+]
