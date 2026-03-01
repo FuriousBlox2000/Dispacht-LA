@@ -23,31 +23,6 @@
       "canAccessCriminalRecords": false,
       "canManageWiretaps": true,
       "canManageSeizures": true
-    },
-    {
-    "badge": "7191",
-    "firstName": "Alex",
-    "lastName": "Mason",
-    "rank": "lieutenant",
-    "role": "lieutenant",
-    "division": "Administration",
-    "password": "123",
-    "permissions": {
-      "dispatch": true,
-      "communications": true,
-      "files": true,
-      "cameras": true,
-      "reports": true,
-      "archives": true,
-      "seizures": true,
-      "wiretaps": true,
-      "token": true,
-      "canCreateReports": true,
-      "canEditReports": true,
-      "canDeleteReports": true,
-      "canAccessCriminalRecords": true,
-      "canManageWiretaps": true,
-      "canManageSeizures": true
     }
   }
 ]
