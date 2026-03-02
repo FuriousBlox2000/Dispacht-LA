@@ -5,7 +5,7 @@
     "lastName": "Atkins",
     "rank": "captain",
     "role": "captain",
-    "division": "Traffic Division",
+    "divisions": "Traffic Division",
     "password": "captain",
     "permissions": {
       "dispatch": true,
@@ -31,7 +31,7 @@
     "lastName": "Masson",
     "role": "lieutenant",
     "rank": "Lieutenant",
-    "division": "Major Crime Division",
+    "divisions": "Major Crime Division",
     "password": "@NFOe156defa"
   },
   {
@@ -40,7 +40,7 @@
     "lastName": "Atkins",
     "role": "poloffi",
     "rank": "Police Officer I",
-    "division": "Patrol Division",
+    "divisions": "Patrol Division",
     "password": "@NFOe156defa"
   }
 ]
