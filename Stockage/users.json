@@ -1,11 +1,11 @@
 [
   {
     "badge": "captain-002",
-    "firstName": "Sarah",
-    "lastName": "Williams",
+    "firstName": "Ashton",
+    "lastName": "Atkins",
     "rank": "captain",
     "role": "captain",
-    "division": "Administration",
+    "division": "Traffic Division",
     "password": "captain",
     "permissions": {
       "dispatch": true,
