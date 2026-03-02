@@ -33,5 +33,14 @@
     "rank": "Lieutenant",
     "division": "Major Crime Division",
     "password": "@NFOe156defa"
+  },
+  {
+    "badge": "0201",
+    "firstName": "Lewis",
+    "lastName": "Atkins",
+    "role": "poloffi",
+    "rank": "Police Officer I",
+    "division": "Patrol Division",
+    "password": "@NFOe156defa"
   }
 ]
