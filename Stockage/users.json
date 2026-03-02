@@ -23,7 +23,8 @@
       "canAccessCriminalRecords": true,
       "canManageWiretaps": true,
       "canManageSeizures": true
-    }
+    },
+    "matricule": ""
   },
   {
     "badge": "7191",
@@ -32,7 +33,9 @@
     "role": "lieutenant",
     "rank": "Lieutenant",
     "divisions": "Major Crime Division",
-    "password": "@NFOe156defa"
+    "password": "@NFOe156defa",
+    "matricule": "",
+    "permissions": {}
   },
   {
     "badge": "0201",
@@ -41,6 +44,8 @@
     "role": "poloffi",
     "rank": "Police Officer I",
     "divisions": "Patrol Division",
-    "password": "@NFOe156defa"
+    "password": "@NFOe156defa",
+    "matricule": "",
+    "permissions": {}
   }
 ]
