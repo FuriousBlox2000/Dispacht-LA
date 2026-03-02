@@ -24,5 +24,14 @@
       "canManageWiretaps": true,
       "canManageSeizures": true
     }
+  },
+  {
+    "badge": "7191",
+    "firstName": "Alex",
+    "lastName": "Masson",
+    "role": "lieutenant",
+    "rank": "Lieutenant",
+    "division": "Major Crime Division",
+    "password": "@NFOe156defa"
   }
 ]
