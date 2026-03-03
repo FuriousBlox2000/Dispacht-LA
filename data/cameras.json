@@ -33,13 +33,13 @@
     "location": "Rodeo Drive & Wilshire Blvd",
     "zone": "Beverly Hills",
     "status": "online",
-    "videoUrl": "https://youtu.be/98jOtUeM3m8",
+    "videoUrl": "",
     "type": "m3u8",
     "coordinates": {
       "lat": 300,
       "lng": 450
     },
-    "lastUpdate": "03/03/2026 23:26:18"
+    "lastUpdate": "03/03/2026 23:53:00"
   },
   {
     "id": "4",
