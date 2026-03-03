@@ -1,1 +1,19 @@
-
+[
+  {
+    "id": "1772567138060",
+    "callSign": "Unit-1",
+    "status": "10-7",
+    "location": {
+      "lat": 300,
+      "lng": 300
+    },
+    "officers": [],
+    "vehicle": {
+      "make": "",
+      "model": "",
+      "plate": "",
+      "year": ""
+    },
+    "radioFrequency": "460.000 MHz"
+  }
+]
