@@ -1,19 +1,30 @@
 [
   {
     "id": "1772567138060",
-    "callSign": "Unit-1",
-    "status": "10-7",
+    "callSign": "Adam-02",
+    "status": "10-8",
     "location": {
       "lat": 300,
       "lng": 300
     },
-    "officers": [],
+    "officers": [
+      {
+        "badge": "7191",
+        "name": "Alex Masson",
+        "rank": "Lieutenant"
+      },
+      {
+        "badge": "0201",
+        "name": "Lewis Atkins",
+        "rank": "Police Officer I"
+      }
+    ],
     "vehicle": {
-      "make": "",
-      "model": "",
-      "plate": "",
-      "year": ""
+      "make": "Ford",
+      "model": "Explorer",
+      "plate": "FJ485GUJ",
+      "year": "2020"
     },
-    "radioFrequency": "460.000 MHz"
+    "radioFrequency": "02.000 MHz"
   }
 ]
