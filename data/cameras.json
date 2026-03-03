@@ -5,13 +5,13 @@
     "location": "Intersection Spring St & 1st St",
     "zone": "Downtown",
     "status": "online",
-    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00033013.mp4",
     "type": "mp4",
     "coordinates": {
       "lat": 150,
       "lng": 200
     },
-    "lastUpdate": "03/03/2026 21:01:40"
+    "lastUpdate": "03/03/2026 21:10:41"
   },
   {
     "id": "2",
@@ -25,7 +25,7 @@
       "lat": 200,
       "lng": 350
     },
-    "lastUpdate": "03/03/2026 21:01:40"
+    "lastUpdate": "03/03/2026 21:10:09"
   },
   {
     "id": "3",
@@ -33,13 +33,13 @@
     "location": "Rodeo Drive & Wilshire Blvd",
     "zone": "Beverly Hills",
     "status": "online",
-    "videoUrl": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00033013.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
     "type": "mp4",
     "coordinates": {
       "lat": 300,
       "lng": 450
     },
-    "lastUpdate": "03/03/2026 21:05:50"
+    "lastUpdate": "03/03/2026 21:10:09"
   },
   {
     "id": "4",
@@ -53,6 +53,6 @@
       "lat": 450,
       "lng": 150
     },
-    "lastUpdate": "03/03/2026 21:01:40"
+    "lastUpdate": "03/03/2026 21:10:09"
   }
 ]
