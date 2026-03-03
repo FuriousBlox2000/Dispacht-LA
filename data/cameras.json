@@ -19,13 +19,13 @@
     "location": "Hollywood Blvd & Highland Ave",
     "zone": "Hollywood",
     "status": "recording",
-    "videoUrl": "https://usw01-smr03-relay.ozolio.com/hls-live/_definst_/relay01.kwpxbpv.fd0.sm1.av2.mt1.at0.as0.dv0.sh2.rt19793.rc0.edge.vpass.stream/chunklist_w1698816998.m3u8",
+    "videoUrl": "https://wzmedia.dot.ca.gov/D7/CCTV-101.stream/playlist.m3u8",
     "type": "m3u8",
     "coordinates": {
       "lat": 200,
       "lng": 350
     },
-    "lastUpdate": "03/03/2026 23:22:30"
+    "lastUpdate": "03/03/2026 23:42:44"
   },
   {
     "id": "3",
