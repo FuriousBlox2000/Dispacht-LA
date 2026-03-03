@@ -47,6 +47,7 @@
     "divisions": "Patrol Division",
     "password": "@NFOe156defa",
     "matricule": "",
-    "permissions": {}
+    "permissions": {},
+    "division": "Patrol Division"
   }
 ]
