@@ -34,6 +34,17 @@
       "id": "6f96daf6-1e6e-4ccf-a356-82b15fed3a69",
       "name": "Special Weapons And Tactics",
       "subdivisions": []
+    },
+    {
+      "id": "d1575356-be7b-4480-b9f6-caacf1d3b0e3",
+      "name": {
+        "name": "Test",
+        "subDivisions": [],
+        "members": [
+          "7191"
+        ]
+      },
+      "subdivisions": []
     }
   ]
 }
