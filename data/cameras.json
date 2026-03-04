@@ -6,12 +6,12 @@
     "zone": "Downtown",
     "status": "online",
     "videoUrl": "https://cdn.discordapp.com/attachments/1216403413395443864/1439579481823121448/LSPD2.mov?ex=69a96a5e&is=69a818de&hm=a4d22057e9b515a98e25e99eb1cb36b879ad3fe2711f2d3ece5a0721fd085f97&",
-    "type": "stream",
+    "type": "mp4",
     "coordinates": {
       "lat": 150,
       "lng": 200
     },
-    "lastUpdate": "04/03/2026 15:01:33"
+    "lastUpdate": "04/03/2026 15:03:03"
   },
   {
     "id": "2",
