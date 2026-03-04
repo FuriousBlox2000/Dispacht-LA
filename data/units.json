@@ -12,6 +12,11 @@
         "matricule": "02",
         "name": "Alex Masson",
         "rank": "Lieutenant"
+      },
+      {
+        "matricule": "20",
+        "name": "Lewis Atkins",
+        "rank": "Police Officer I"
       }
     ],
     "vehicle": {
