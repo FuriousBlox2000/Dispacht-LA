@@ -16,7 +16,7 @@
       "archives": true,
       "seizures": true,
       "wiretaps": true,
-      "token": true,
+      "token": false,
       "canCreateReports": true,
       "canEditReports": true,
       "canDeleteReports": true,
