@@ -27,22 +27,5 @@
     },
     "radioFrequency": "02.000 MHz",
     "assignedCall": "1772567265212"
-  },
-  {
-    "id": "1772655727547",
-    "callSign": "Unit-2",
-    "status": "10-7",
-    "location": {
-      "lat": 300,
-      "lng": 300
-    },
-    "officers": [],
-    "vehicle": {
-      "make": "",
-      "model": "",
-      "plate": "",
-      "year": ""
-    },
-    "radioFrequency": "460.000 MHz"
   }
 ]
