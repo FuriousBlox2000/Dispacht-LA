@@ -5,13 +5,13 @@
     "location": "Intersection Spring St & 1st St",
     "zone": "Downtown",
     "status": "online",
-    "videoUrl": "https://live4.brownrice.com:444/westland/westland.stream/chunklist_w614847154.m3u8",
+    "videoUrl": "https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8",
     "type": "m3u8",
     "coordinates": {
       "lat": 150,
       "lng": 200
     },
-    "lastUpdate": "04/03/2026 14:53:08"
+    "lastUpdate": "04/03/2026 14:54:38"
   },
   {
     "id": "2",
