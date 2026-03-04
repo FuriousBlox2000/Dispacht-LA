@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "1772630685157",
+    "title": "Stevenson Alfred's",
+    "content": "Le parquet de justice de Los Santos,\nDemande l'arrestation immédiate de Mr Stevenson ALFRED'S pour les chief d'accusation suivant :\n- Agression sur dépositaire de l'autorité publique\n- Kidnapping sur Agent de l'état\n- Tentative d'homicide\n- Port d'arme illégal\n----------------------------------\nSi vous voyez l'individu, Demander des renfort, et appréhender le avec précaution.\n----------------------------------\nProcureur en charge :\nAndrew Wilson (555) 513-5893\n----------------------------------",
+    "type": "warrant",
+    "author": "Alex Masson (7191)",
+    "timestamp": "04/03/2026 14:24:45",
+    "priority": "high"
+  }
+]
