@@ -5,13 +5,13 @@
     "location": "Intersection Spring St & 1st St",
     "zone": "Downtown",
     "status": "online",
-    "videoUrl": "https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8",
+    "videoUrl": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
     "type": "stream",
     "coordinates": {
       "lat": 150,
       "lng": 200
     },
-    "lastUpdate": "04/03/2026 14:55:21"
+    "lastUpdate": "04/03/2026 14:55:30"
   },
   {
     "id": "2",
