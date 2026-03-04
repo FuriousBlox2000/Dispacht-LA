@@ -19,13 +19,13 @@
     "location": "Hollywood Blvd & Highland Ave",
     "zone": "Hollywood",
     "status": "recording",
-    "videoUrl": "https://live4.brownrice.com:444/westland/westland.stream/chunklist_w1129080812.m3u8",
-    "type": "m3u8",
+    "videoUrl": "https://live4.brownrice.com:444/westland/westland.stream/",
+    "type": "stream",
     "coordinates": {
       "lat": 200,
       "lng": 350
     },
-    "lastUpdate": "04/03/2026 14:50:09"
+    "lastUpdate": "04/03/2026 14:51:02"
   },
   {
     "id": "3",
