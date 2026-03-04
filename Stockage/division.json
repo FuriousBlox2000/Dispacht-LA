@@ -29,6 +29,11 @@
       "id": "d5db6b76-7cc2-4fca-89cc-d84b5fea6e9a",
       "name": "Patrol Division",
       "subdivisions": []
+    },
+    {
+      "id": "6f96daf6-1e6e-4ccf-a356-82b15fed3a69",
+      "name": "Special Weapons And Tactics",
+      "subdivisions": []
     }
   ]
 }
