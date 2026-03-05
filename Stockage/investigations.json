@@ -12,7 +12,16 @@
     "vehicles": [],
     "properties": [],
     "evidence": [],
-    "externalResources": [],
+    "externalResources": [
+      {
+        "id": "5ffab5b0-8327-4304-accd-c960c3ae178b",
+        "name": "Carte retrouvé sur la victime",
+        "url": "https://media.discordapp.net/attachments/971599651243442176/1479139824878354472/lincoln.png?ex=69aaf3cf&is=69a9a24f&hm=689c32865e5a7fb459660e9f918c46e4bf813f72289c4c87b52ec76dead47926&=&format=webp&quality=lossless&width=231&height=350",
+        "type": "image",
+        "addedAt": "2026-03-05T15:33:52.859Z",
+        "addedBy": "captain-002"
+      }
+    ],
     "timeline": [
       {
         "date": "2026-03-05T15:32:37.067Z",
@@ -22,6 +31,6 @@
     ],
     "createdAt": "2026-03-05T15:32:37.067Z",
     "createdBy": "7191",
-    "updatedAt": "2026-03-05T15:32:37.067Z"
+    "updatedAt": "2026-03-05T15:34:24.387Z"
   }
 ]
