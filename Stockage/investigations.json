@@ -1,0 +1,27 @@
+[
+  {
+    "id": "f509eddd-7fbc-41fc-b6eb-d67256fbddce",
+    "caseNumber": "CASE-1772724757067",
+    "title": "Homicide",
+    "description": "Homicide de Mr Stevenson ALFRED'S par X",
+    "division": "7e04d475-873a-4306-999f-14899b177381",
+    "assignedTo": "7191",
+    "status": "Ouvert",
+    "priority": "Haute",
+    "suspects": [],
+    "vehicles": [],
+    "properties": [],
+    "evidence": [],
+    "externalResources": [],
+    "timeline": [
+      {
+        "date": "2026-03-05T15:32:37.067Z",
+        "event": "Dossier créé",
+        "officer": "7191"
+      }
+    ],
+    "createdAt": "2026-03-05T15:32:37.067Z",
+    "createdBy": "7191",
+    "updatedAt": "2026-03-05T15:32:37.067Z"
+  }
+]
