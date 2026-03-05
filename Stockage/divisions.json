@@ -5,7 +5,13 @@
       "name": "Police Academy",
       "lead": "7191",
       "coLead": "0201",
-      "members": [],
+      "members": [
+        {
+          "badge": "7191",
+          "addedBy": "0201",
+          "addedAt": "2026-03-05T14:17:42.752Z"
+        }
+      ],
       "subdivisions": [],
       "ranks": [
         {
