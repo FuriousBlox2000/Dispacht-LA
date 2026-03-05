@@ -1,16 +1,16 @@
 [
   {
+    "dob": "1980-10-24",
     "firstName": "Alex",
     "lastName": "Masson",
-    "nationality": "Américano-Australienne",
-    "dob": "1980-10-24",
-    "address": "156 Portola Drive, Los Santos, SA",
-    "phone": "(555) 513-5896",
-    "email": "Masson@mail.com",
     "gender": "F",
-    "ssn": "586-SA-963",
-    "id": "fc7908fe-ff10-43ee-b9b7-501366a93553",
-    "createdAt": "2026-03-05T15:27:52.820Z",
+    "nationality": "Américano-Australienne",
+    "email": "Masson@mail.com",
+    "phone": "(555) 513-5896",
+    "address": "156 Portola Drive, Los Santos, SA",
+    "ssn": "513-ID-5896",
+    "id": "a2f30e52-f77d-4449-96f2-77a828da7f94",
+    "createdAt": "2026-03-05T21:16:21.598Z",
     "createdBy": "7191"
   }
 ]
