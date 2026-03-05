@@ -37,7 +37,13 @@
           "name": "Cyber",
           "lead": "0201",
           "coLead": null,
-          "members": [],
+          "members": [
+            {
+              "badge": "captain-002",
+              "addedBy": "7191",
+              "addedAt": "2026-03-05T14:19:24.831Z"
+            }
+          ],
           "createdBy": "7191",
           "createdAt": "2026-03-05T14:19:09.639Z"
         }
